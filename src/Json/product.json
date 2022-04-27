@@ -1,0 +1,70 @@
+{
+  "product": [
+    {
+      "id": 1001,
+      "title": "Crocin",
+      "price": "25",
+      "qty": "56",
+      "PCategory": "Tablet",
+      "PType": "Tablet",
+      "CompanyBrand": "kbc",
+      "available": "Available",
+      "img": "https://insightplus.mja.com.au/wp-content/uploads/2021/04/paracetamol-for-osteoarthritis-pain-arguably-clinically-insignificant-645.jpg"
+    },
+    {
+      "id": 1002,
+      "title": "Cough Syrup",
+      "price": "20",
+      "qty": "4",
+      "PCategory": "medicine-Syrup",
+      "PType": "",
+      "CompanyBrand": "ABC",
+      "available": "available",
+      "img": "https://s1.dmcdn.net/v/QE57y1SyFFhL4QDPF/x1080"
+    },
+    {
+      "id": 1003,
+      "title": "Thermometer",
+      "price": "23",
+      "qty": "4",
+      "PCategory": "Electronices",
+      "PType": "",
+      "CompanyBrand": "ABC",
+      "available": "available",
+      "img": "https://archerconcepts.co.nz/images/products/medical/main/1254_3_Thermometer4.jpg"
+    },
+    {
+      "id": 1004,
+      "title": "Covaxine",
+      "price": "23",
+      "qty": "4",
+      "PCategory": "Tablet",
+      "PType": "",
+      "CompanyBrand": "ABC",
+      "available": "available",
+      "img": "https://images.outlookindia.com/public/uploads/articles/2021/1/18/covaxin-1603676480_570_850_571_855.jpg"
+    },
+    {
+      "id": 1005,
+      "title": "Digene",
+      "price": "999",
+      "qty": "100",
+      "PCategory": "medicine-Syrup",
+      "PType": "",
+      "CompanyBrand": "KBC",
+      "available": "not available",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUvMv-iO2K5uLbfRQj3lHxbQWoNxdb-8tCQ&usqp=CAU"
+    },
+    {
+      "title": "Throid",
+      "price": "123",
+      "qty": "12",
+      "PCategory": "tablet",
+      "PType": "tablet",
+      "CompanyBrand": "ABC",
+      "available": "Available",
+      "img": "https://5.imimg.com/data5/XR/AQ/MY-25120279/thyroid-tablets-500x500.jpg",
+      "id": 1006
+    }
+  ]
+}
